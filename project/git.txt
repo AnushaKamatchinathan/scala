@@ -1,0 +1,28 @@
+GIT
+
+Version Control
+	Version control looks like adding complicated stuff on top of 
+already complicated coding work.
+	Record the changes in the code over the time period
+	It will update the changes in the code in the repository 
+	The history of the changes made can be known
+	Helps to Track history and Work together
+VCs types
+	Centralized VCs
+		All ur team members get the code through the centralized 
+machine, if any changes made required in the sense they will change.
+		Single point so easily get failed
+	Distributed VCs	
+		Each member in the project has its own copy of project
+in their machine, once when centralized system is applied we can share 
+our modified content to others. Eg:- GIT
+
+Two types of repository
+Local Repository => you machine with your working software(PC)
+Remote Repository => common server/hub
+
+Stagged area is having the list of files in the particular folder and 
+whenever the work is done it push them into working directory or local 
+directory
+
+folder=>
